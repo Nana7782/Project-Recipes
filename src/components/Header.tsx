@@ -15,7 +15,7 @@ export default function Header() {
         </nav>
         <Link to="/">Login</Link>
       </div>
-      <img src="" alt="" className="header-img" />
+      <img src="" alt="bild" className="header-img" />
     </header>
   );
 }
