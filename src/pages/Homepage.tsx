@@ -1,7 +1,9 @@
+import RenderRecipes from "../components/RenderRecipes";
+
 export default function Homepage() {
   return (
     <main>
-      <h2>Nanas favourite vegan recipes</h2>
+      <RenderRecipes />
     </main>
   );
 }
